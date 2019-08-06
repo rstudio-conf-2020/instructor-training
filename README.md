@@ -29,7 +29,7 @@ RStudio's instructor training and certification program helps people apply moder
 
 ## Learning objectives
 
-LEARNING_OBJECTIVES
+This one-day workshop is the first step toward becoming a certified RStudio trainer.
 
 ## Is this course for me?
 
