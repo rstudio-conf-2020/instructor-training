@@ -25,7 +25,7 @@ can remove these instructions from the README.
 
 ## Overview
 
-ABSTRACT
+RStudio's instructor training and certification program helps people apply modern evidence-based teaching practices to teach data science using R and RStudio's products, and helps people who need such training find the trainers they need. Candidates must be proficient in the technical skills and tools they wish to teach.
 
 ## Learning objectives
 
