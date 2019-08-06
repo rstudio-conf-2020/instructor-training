@@ -3,7 +3,7 @@ RStudio Instructor Training
 
 ### rstudio::conf 2020
 
-by INSTRUCTOR_NAME
+by Greg Wilson
 
 -----
 
