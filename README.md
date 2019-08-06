@@ -33,7 +33,7 @@ This one-day workshop is the first step toward becoming a certified RStudio trai
 
 ## Is this course for me?
 
-THREE_QUESTIONS
+ADD THREE QUESTIONS
 
 ## Prework
 
