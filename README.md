@@ -1,4 +1,4 @@
-WORKSHOP_TITLE
+RStudio Instructor Training
 ================
 
 ### rstudio::conf 2020
